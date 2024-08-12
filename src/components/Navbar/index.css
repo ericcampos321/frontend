@@ -1,0 +1,14 @@
+.NavbarItens{
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+  background-color: #f8f9fa;
+  box-shadow: 5px 5px 5px rgba(180, 180, 180, 0.377);
+}
+
+.NavbarItens > h1{
+  padding-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
